@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Rafaela Mansini Silva :v: :computer:
+
+I'm a Full-Stack software developer and a programming lover.
+
+## ⚡ Tech Stack
+| PHP | Laravel | Javascript | Node.js | React.js | jQuery | MySQL | PostgreSQL | Python | Docker |
+
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rafaela-mansini/?locale=en_US)
 
 <!--
 **rafaela-mansini/rafaela-mansini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
